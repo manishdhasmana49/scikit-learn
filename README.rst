@@ -201,4 +201,4 @@ Communication
 Citation
 ~~~~~~~~
 
-If you use scikit-learn in a scientific publication, we would appreciate citations: https://scikit-learn.org/stable/about.html#citing-scikit-learn
+If you use scikit-learn in a scientific publication, we would appreciate citations at: https://scikit-learn.org/stable/about.html#citing-scikit-learn
